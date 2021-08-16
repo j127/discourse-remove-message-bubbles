@@ -1,0 +1,21 @@
+.archetype-private_message {
+    .topic-post {
+        margin: 0;
+        article {
+            border-top: 1px solid var(--primary-low);
+        }
+    }
+    .topic-body,
+    .topic-avatar {
+        border-top: none;
+    }
+    .topic-body {
+        flex: unset;
+    }
+    .boxed .contents {
+        padding: 10px 0 0 0;
+    }
+    .topic-map {
+        margin: 0;
+    }
+}
