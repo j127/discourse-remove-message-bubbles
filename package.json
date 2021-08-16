@@ -2,6 +2,7 @@
   "author": "Josh",
   "license": "MIT",
   "devDependencies": {
-    "eslint-config-discourse": "latest"
+    "eslint-config-discourse": "latest",
+    "prettier": "^2.3.2"
   }
 }
